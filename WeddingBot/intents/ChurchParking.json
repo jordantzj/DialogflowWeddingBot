@@ -1,0 +1,42 @@
+{
+  "id": "64b2e2ed-78f4-4732-a008-681a788c3b3b",
+  "name": "ChurchParking",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "title": "There is a multi-story parking across the road at the URA building! 😁",
+          "buttons": [
+            {
+              "postback": "https://goo.gl/maps/Ra2CtunLqtPbje9t9",
+              "text": "Directions"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

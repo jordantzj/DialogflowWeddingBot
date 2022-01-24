@@ -1,0 +1,42 @@
+{
+  "id": "4f944ea5-ee5f-4c13-97ea-a226b0537737",
+  "name": "DinnerParking",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "title": "Parking for the dinner reception will be right outside the venue! 😊",
+          "buttons": [
+            {
+              "postback": "https://www.google.com/maps/place/Min+Jiang+at+Dempsey/@1.3047333,103.8060619,17z/data\u003d!3m1!4b1!4m5!3m4!1s0x31da1a5cafd1ae97:0x705739b2c488be87!8m2!3d1.304778!4d103.8081335?hl\u003den",
+              "text": "Directions"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

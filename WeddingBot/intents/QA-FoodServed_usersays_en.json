@@ -1,0 +1,93 @@
+[
+  {
+    "id": "d9e00bd8-3d3d-402b-9b97-e56fb8cd0045",
+    "data": [
+      {
+        "text": "is there food in the church ceremony",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "011f876d-32a7-4f8f-8db2-9ae3f5f7d362",
+    "data": [
+      {
+        "text": "is there food served in the church service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f454243-f2cc-49e6-be7a-39df43047ecc",
+    "data": [
+      {
+        "text": "is there food served in church",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0d9d94f-cdbe-469e-adf4-44c867d7fb01",
+    "data": [
+      {
+        "text": "is food served",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a3e723f-51d6-4468-bb21-613b7cc37d80",
+    "data": [
+      {
+        "text": "any food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1899db8-5a65-45f6-9d95-ab0828eb36e4",
+    "data": [
+      {
+        "text": "is there food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23abc8d8-f82e-49e1-8b31-a238fbe8b426",
+    "data": [
+      {
+        "text": "will food be served?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

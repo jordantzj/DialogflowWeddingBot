@@ -1,0 +1,49 @@
+{
+  "id": "d2056a7f-53b2-41ab-b868-6eb7cd2fea59",
+  "name": "ChurchDirection",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "title": "Fairfield Methodist Church ⛪️, 1 Tanjong Pagar Road, Singapore 088437",
+          "buttons": [
+            {
+              "postback": "https://www.google.com/maps/place/Fairfield+Methodist+Church/@1.279959,103.844266,14z/data\u003d!4m5!3m4!1s0x0:0x7e60eb72fc7375d!8m2!3d1.2799593!4d103.8442658?hl\u003den-GB",
+              "text": "Directions"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

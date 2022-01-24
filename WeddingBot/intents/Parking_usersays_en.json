@@ -1,0 +1,67 @@
+[
+  {
+    "id": "feacd20c-e131-4ae4-9ac6-826c13a02789",
+    "data": [
+      {
+        "text": "park",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4febbf86-5ef2-452b-a2dd-e45570346fa4",
+    "data": [
+      {
+        "text": "park where",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06a358dc-3bfb-4fcf-b587-0f15509cf779",
+    "data": [
+      {
+        "text": "where can i park my car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7957b91-2f05-4ca4-a813-f1d02a4d85fb",
+    "data": [
+      {
+        "text": "where can i park",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50f4efac-a751-4548-b67e-74f6a923bdae",
+    "data": [
+      {
+        "text": "parking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

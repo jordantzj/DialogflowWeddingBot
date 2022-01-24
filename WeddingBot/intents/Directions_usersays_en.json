@@ -1,0 +1,93 @@
+[
+  {
+    "id": "c133718a-3ac8-4ac0-a2ef-a023ffb65da1",
+    "data": [
+      {
+        "text": "can i get directions to the dinner receptioin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e357fc7-9a72-4b18-9fa8-4c6f3d89bcdd",
+    "data": [
+      {
+        "text": "directions to the church",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef4f3241-6035-46c7-86fe-2a7b7c0bf57c",
+    "data": [
+      {
+        "text": "how to go to the church",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e8acda6-916a-49c4-abc1-91f985146e89",
+    "data": [
+      {
+        "text": "how to go to the dinner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31efa03f-5d85-42ec-89bd-2844f349895c",
+    "data": [
+      {
+        "text": "how to go to the venue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5cd9dbb1-66ec-4f2c-b781-bd098ccefcba",
+    "data": [
+      {
+        "text": "can i get directions to the venue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3dde0eda-bf70-41be-a39b-c1febec3ffa4",
+    "data": [
+      {
+        "text": "directions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

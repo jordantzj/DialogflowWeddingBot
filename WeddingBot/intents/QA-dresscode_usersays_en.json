@@ -1,0 +1,80 @@
+[
+  {
+    "id": "e3063566-6021-4146-9f00-be2e973b860d",
+    "data": [
+      {
+        "text": "what should i dress",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b89c6bea-cd1b-4352-acbd-3a8cbf7aff61",
+    "data": [
+      {
+        "text": "dress code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a037785-2b6a-4f7e-b35e-ab63f387066d",
+    "data": [
+      {
+        "text": "is there a dresscode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bad1a21f-c8cd-4bb5-94d7-f828c8262049",
+    "data": [
+      {
+        "text": "what should i wear",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9fcd0c8-8ae4-4682-922d-ff638f69eba0",
+    "data": [
+      {
+        "text": "what is the dresscode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2fb126d-42b0-4170-967e-e396b0bbbdd3",
+    "data": [
+      {
+        "text": "dresscode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

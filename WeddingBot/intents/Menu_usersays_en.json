@@ -1,0 +1,41 @@
+[
+  {
+    "id": "fe4f58e3-4819-4212-9f36-5ea4bce8b37e",
+    "data": [
+      {
+        "text": "food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64804ae8-0a9c-4ecb-92d9-e51e5815e875",
+    "data": [
+      {
+        "text": "menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "faa44ff7-7320-42bf-8a34-fa0b35491c7b",
+    "data": [
+      {
+        "text": "menu please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

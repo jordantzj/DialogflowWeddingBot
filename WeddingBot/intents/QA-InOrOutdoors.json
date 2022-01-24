@@ -1,0 +1,36 @@
+{
+  "id": "6e75edbd-0308-44e0-99c1-a778c9fd300e",
+  "name": "QA-InOrOutdoors",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "This is Singapore 🇸🇬.... of course the venue is indoors and AIR CONDITIONED",
+            "The venue is indoors and air conditioned... thank goodness 🙏(Joshua insisted)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

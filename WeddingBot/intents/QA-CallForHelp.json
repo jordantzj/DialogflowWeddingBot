@@ -1,0 +1,35 @@
+{
+  "id": "23879503-f6fd-420b-b27b-167a512eae33",
+  "name": "QA-CallForHelp",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The bride and groom are busy preparing for the most important day of their lives so please ask me for any details! 😁If i don\u0027t have the answers to your questions, you have the couples\u0027 number, don\u0027t you 🤔"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

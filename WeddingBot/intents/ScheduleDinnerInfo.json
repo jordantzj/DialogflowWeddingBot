@@ -1,0 +1,76 @@
+{
+  "id": "f00b516d-505e-4b44-bdf3-d23d14ebdcab",
+  "name": "ScheduleDinnerInfo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Schedule.Schedule-next",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "telegram",
+          "title": "",
+          "payload": {
+            "telegram": {
+              "text": "Here is some information to the dinner reception 🍽",
+              "reply_markup": {
+                "inline_keyboard": [
+                  [
+                    {
+                      "text": "Directions to the dinner reception📍",
+                      "callback_data": "dinner directions"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "dinner parking",
+                      "text": "Parking for the dinner reception 🅿️"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "ScheduleDinnerInfoTable",
+                      "text": "What\u0027s my Table number? 🪑"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Dinner menu 📕",
+                      "callback_data": "menu"
+                    }
+                  ]
+                ]
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

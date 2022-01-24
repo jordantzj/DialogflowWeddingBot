@@ -1,0 +1,35 @@
+{
+  "id": "6a22c429-6097-48c9-80d8-4508cc8cdaa1",
+  "name": "QA-ReceptionTimeEnds",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The church service should end around 12pm. The tea ceremony 🍵will commence immediately after, so for those who are participating, please kindly wait in the church sanctuary for the announcement. 😊"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

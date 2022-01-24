@@ -1,0 +1,81 @@
+{
+  "id": "269f1395-ec54-443f-a29b-5541ba5039f8",
+  "name": "DinnerInfo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "DinnerInfo-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "telegram",
+          "title": "",
+          "payload": {
+            "telegram": {
+              "reply_markup": {
+                "inline_keyboard": [
+                  [
+                    {
+                      "callback_data": "dinner directions",
+                      "text": "Directions to the dinner reception📍"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "dinner parking",
+                      "text": "Parking for the dinner reception 🅿️"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "seat",
+                      "text": "What\u0027s my Table number? 🪑"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Dinner menu 📕",
+                      "callback_data": "menu"
+                    }
+                  ]
+                ]
+              },
+              "text": "Here is some information to the dinner reception 🍽"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

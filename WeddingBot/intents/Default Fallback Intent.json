@@ -1,0 +1,40 @@
+{
+  "id": "140b1685-3e45-4037-8cae-097e10567d4a",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I didn\u0027t get that. You can try using the Menu at the bottom left! ☺️",
+            "I missed what you said. You can try using the Menu at the bottom left! ☺️",
+            "What was that? Maybe try using the Menu at the bottom left! ☺️",
+            "Say that one more time or use the Menu at the bottom left!",
+            "I didn\u0027t get that. How about using the Menu at the bottom left! 😊",
+            "I missed that, say that again or maybe try using the Menu at the bottom left! ☺️"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

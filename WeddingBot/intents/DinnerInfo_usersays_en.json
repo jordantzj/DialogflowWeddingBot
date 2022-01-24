@@ -1,0 +1,67 @@
+[
+  {
+    "id": "ede0d3b9-aec4-4907-9aea-819b5ba644a9",
+    "data": [
+      {
+        "text": "give me dinner info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d96a6b08-3dee-429c-aa16-3d214fff6a25",
+    "data": [
+      {
+        "text": "can i get information for dinner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be719e52-991a-4896-95e7-aca812494bee",
+    "data": [
+      {
+        "text": "information for dinner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d41362ea-8a95-4c45-b72d-c33edebb7c76",
+    "data": [
+      {
+        "text": "info for dinner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6b33576-897a-4cc8-bdf3-8570796256e9",
+    "data": [
+      {
+        "text": "dinner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

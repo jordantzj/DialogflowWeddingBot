@@ -1,0 +1,80 @@
+[
+  {
+    "id": "9cfd08cf-b3ae-4337-8e92-493c31e17993",
+    "data": [
+      {
+        "text": "indoor or outdoor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "630b88b3-2327-4372-afbb-2c4686f414ab",
+    "data": [
+      {
+        "text": "is the venue outdoors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3f868e6-8ff0-4be5-a4ff-ba8993613f15",
+    "data": [
+      {
+        "text": "is the venue indoors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e610aaad-6d75-4080-8399-1359e90e403f",
+    "data": [
+      {
+        "text": "outdoors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4be3f98f-3a44-453f-8b9e-04780c084bec",
+    "data": [
+      {
+        "text": "indoors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1dbf64cb-3b8e-4e3e-97f3-79f47be21917",
+    "data": [
+      {
+        "text": "Is it indoors or outdoors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

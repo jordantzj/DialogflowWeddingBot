@@ -1,0 +1,43 @@
+{
+  "id": "95529cef-aff2-4440-b394-0693ea4cdfbc",
+  "name": "Directions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "title": "Directions📍",
+          "buttons": [
+            {
+              "postback": "https://www.google.com/maps/place/Fairfield+Methodist+Church/@1.279959,103.844266,14z/data\u003d!4m5!3m4!1s0x0:0x7e60eb72fc7375d!8m2!3d1.2799593!4d103.8442658?hl\u003den-GB",
+              "text": "Fairfield Methodist Church ⛪️"
+            },
+            {
+              "postback": "https://www.google.com/maps/place/+Jiang+at+Dempsey/@1.3047333,103.8060619,17z/data\u003d!3m1!4b1!4m5!3m4!1s0x31da1a5cafd1ae97:0x705739b2c488be87!8m2!3d1.304778!4d103.8081335?hl\u003den",
+              "text": "Min Jiang 🥢"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

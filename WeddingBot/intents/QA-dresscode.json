@@ -1,0 +1,37 @@
+{
+  "id": "b2c2eea0-e6ff-462a-839d-7010f8bd62ef",
+  "name": "QA-dresscode",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Smart formal is fine! 👔👗",
+            "Dress to impress 😉preferably a smart formal attire! 👔👗",
+            "Something nice like a smart formal attire! 👔👗"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

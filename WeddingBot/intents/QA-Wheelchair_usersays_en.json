@@ -1,0 +1,67 @@
+[
+  {
+    "id": "3d571e74-16dd-4e10-8633-b01940e6d4c7",
+    "data": [
+      {
+        "text": "accessible for wheelchair",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a84e63d-6af9-4413-8dd2-e6e2c7487ca9",
+    "data": [
+      {
+        "text": "wheelchair accessible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "163bc1e3-8b60-4880-956a-31de6ec0e757",
+    "data": [
+      {
+        "text": "i am handicapped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79a4d629-f124-4963-af16-629d681dc22d",
+    "data": [
+      {
+        "text": "i\u0027m on a wheelchair",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1dc5fed-63d1-436f-b7ef-05982ddb5cd2",
+    "data": [
+      {
+        "text": "is it wheelchair accessible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
